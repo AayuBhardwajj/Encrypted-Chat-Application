@@ -1,4 +1,4 @@
-# Real-Time Chat Application
+# CipherSpace
 
 A modern real-time chat application built with Spring Boot and WebSocket technology. This application allows users to communicate in real-time, send text messages, emojis, and images while maintaining message encryption and user authentication.
 
