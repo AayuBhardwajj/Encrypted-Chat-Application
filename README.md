@@ -62,14 +62,14 @@ mvn spring:boot run
 
 5. Open your browser and visit:
 ```
-http://localhost:8080
+http://localhost:8081
 ```
 
 ## Configuration
 
 1. Create `application.properties` in `src/main/resources/` with the following content:
 ```properties
-server.port=8080
+server.port=8081
 jwt.secret=your-secret-key
 jwt.expiration=86400000
 ```
